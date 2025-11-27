@@ -17,8 +17,13 @@ public class RandomItem : MonoBehaviour
         Debug.Log(items[Random.Range(0,9)]);
 
     }
+    //hier staat onder de foreach!!
     private void PrintAllItems() {
-        //Printen van alle items
+        foreach(var it in items)
+        {
+         Debug.Log(it);   
+        }
+        
     }
 
 }
