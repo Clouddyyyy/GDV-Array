@@ -34,5 +34,5 @@ Boven aan: character throwing shunken
 Midden/everywhere: enemys
 
 Levelschets:
-![IdeaDesign](IdeaDesign.png)
+IdeaDesign.png
 
