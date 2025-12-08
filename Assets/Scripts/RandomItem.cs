@@ -21,7 +21,7 @@ public class RandomItem : MonoBehaviour
     private void PrintAllItems() {
         foreach(var it in items)
         {
-         Debug.Log(it);   
+         Debug.Log(it); 
         }
         
     }
