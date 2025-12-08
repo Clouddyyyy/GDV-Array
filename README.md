@@ -18,8 +18,22 @@ https://github.com/Clouddyyyy/GDV-PeggleProject.git
 # GDV-PeggleProject
 
 Titel = Pegglevoid
-Genre = dark acedemia
+Genre = Dark
+More idea: Conversation based peggle
 Beschrijving = de character/bal swinged naar een enemy/andere bal met messen. Als die mes de enemy raakt gaat er health damage af. door elk level heen krijg je meer of andere soorten enemies.
 
-Bal type = a character like dnd? or jst a bal?
-Targets and bumps = enemies
+Bal type = a character like dnd/character.
+Targets and bumps = enemies, monsters (thats not my neigbor type).
+Score: if you hit a monster you get a point or if you hit a human you lose or not have a point.
+Doel: Hitting multiple monsters and saving humans.
+
+Thema: Dark acedemia, Tavern, dark colors, maybe noise when enemys die.
+
+Structuur van game:
+Boven aan: character throwing shunken
+Midden/everywhere: enemys
+
+Levelschets:
+![IdeaDesign](<img width="768" height="1024" alt="IdeaDesign" src="https://github.com/user-attachments/assets/59619515-d250-4398-9e4e-305b2760a2e8" />
+)
+
