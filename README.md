@@ -17,21 +17,23 @@ https://github.com/Clouddyyyy/GDV-PeggleProject.git
 
 # GDV-PeggleProject
 
-Titel = Pegglevoid
-Genre = Dark
-More idea: Conversation based peggle
-Beschrijving = de character/bal swinged naar een enemy/andere bal met messen. Als die mes de enemy raakt gaat er health damage af. door elk level heen krijg je meer of andere soorten enemies.
+Titel = PeggleVoid
+Genre = Dark, Valetine
+Beschrijving = de character/cupid(bal) bow and arrows shooting at the humans with arrows. If the arrow hits the right target they get points but if they hit a monster, which isn't allowed. 
 
-Bal type = a character like dnd/character.
-Targets and bumps = enemies, monsters (thats not my neigbor type).
-Score: if you hit a monster you get a point or if you hit a human you lose or not have a point.
-Doel: Hitting multiple monsters and saving humans.
+Bal type = Character is like a bad cupid.
+Targets and bumps = humans that the character hits. There are monsters/enemys you cant hit. There are some bumps that will effect the arrow and you will lose it or it bounces back.
+Score: if you hit a human you get a point or if you hit a monster/enemy you lose one/multiple points.
+Doel: Hitting multiple humans and not monsters because they are bad for the cupid.
 
-Thema: Dark acedemia, Tavern, dark colors, maybe noise when enemys die.
+Thema: Tavernish, dark cupid.
 
 Structuur van game:
-Boven aan: character throwing shunken
-Midden/everywhere: enemys
+Boven aan: character throwing arrow 
+Midden/everywhere: enemys, lovers(aka human)
+
+Also photo inspired:
+![Inspiry](https://yakam_dudes.artstation.com/projects/9eGPEN)
 
 Levelschets:
 ![IdeaDesign](<img width="768" height="1024" alt="IdeaDesign" src="https://github.com/user-attachments/assets/59619515-d250-4398-9e4e-305b2760a2e8" />
