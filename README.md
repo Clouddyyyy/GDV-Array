@@ -40,5 +40,6 @@ Levelschets:
 
 
 Target hitten:
-![Target things](https://1drv.ms/i/c/2a274c526d418843/IQBoYRvcQGzFTpF0v-KQVQdgAcvd_snYAys0bZUQyAuavPQ?e=hZhTUT)
+![Target things](![Peggleref](https://github.com/user-attachments/assets/26d520f2-ac3c-40dd-9992-6181f7045811)
+)
 
